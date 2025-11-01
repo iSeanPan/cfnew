@@ -1,3 +1,4 @@
+Forked by me
 # CFnew - 终端 v2.0
 
 <div align="center">
